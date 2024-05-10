@@ -1,0 +1,61 @@
+nav{
+     background-color: gold;
+     padding: 15px;
+    }
+  ul,nav,li,h7{
+    display: inline;
+  }
+  ul{
+    margin-left: 30%;
+    cursor: pointer;
+  }
+  li:hover{
+    color: white;
+  }
+input{
+  width: 60%;;
+  padding: 15px;
+}
+.searcher{
+  padding: 50px;
+}
+.box1{
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  display: inline-block;
+  width: 250px;
+  cursor: pointer;
+
+}
+.box2{
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  display: inline-block;
+  width: 250px;
+  cursor: pointer;
+}
+.box3{
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  display: inline-block;
+  width: 250px;
+  cursor: pointer;
+}
+.box1:hover,.box2:hover,.box3:hover{
+  background-color: black;
+  color: white;
+}
+.About{
+  color: black;
+}
+.Contact{
+  background-color: black;
+  color: white;
+  padding:10px;
+p{
+  color: gray;
+}
+}
